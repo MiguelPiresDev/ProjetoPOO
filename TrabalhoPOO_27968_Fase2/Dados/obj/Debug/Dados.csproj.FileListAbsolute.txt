@@ -1,0 +1,6 @@
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\bin\Debug\Dados.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\bin\Debug\Dados.pdb
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\obj\Debug\Dados.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\Dados\obj\Debug\Dados.pdb

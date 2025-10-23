@@ -1,0 +1,6 @@
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

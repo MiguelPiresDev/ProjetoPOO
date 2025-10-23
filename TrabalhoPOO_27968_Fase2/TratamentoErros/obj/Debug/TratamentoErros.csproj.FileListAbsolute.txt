@@ -1,0 +1,6 @@
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\bin\Debug\TratamentoErros.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\bin\Debug\TratamentoErros.pdb
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\obj\Debug\TratamentoErros.csproj.AssemblyReference.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\obj\Debug\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\obj\Debug\TratamentoErros.dll
+C:\IPCA\2ºAno\1ºSemestre\Projeto POO\TrabalhoPOO_27968_Fase2\TratamentoErros\obj\Debug\TratamentoErros.pdb
